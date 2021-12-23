@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chanseong-Lee from korea.
+- 👋 Hi, I’m @Chanseong-Lee from South Korea.
 - 🏡 Currently live in Nara, Japan.
 - 🙋‍♂️ I can speak Korean, Japanese and English.
 - 🌱 I’m currently learning JAVA, JSP, Spring and so on.
