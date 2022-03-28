@@ -29,7 +29,7 @@
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanseong-Lee%2FChanseong-Lee%2F&count_bg=%2359B6CD&title_bg=%2359B6CD&icon=reddit.svg&icon_color=%23FFFFFF&title=today&edge_flat=false"/></a></p>
 <br>
 
-<p align="center" class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=B2F0DC&amp;height=200&amp;section=footer" alt="Footer"></p>
+<p align="center" class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=B2F0DC&amp;height=200&amp;section=footer&amp;text=Have%20a%20fabulous%20day!&amp;fontSize=60" alt="Footer"></p>
 <!---
 Chanseong-Lee/Chanseong-Lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
