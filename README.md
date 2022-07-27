@@ -7,12 +7,12 @@
  👋 Hi, I’m @Chanseong-Lee from South Korea.<br>
  🏡 Currently live in Nara, Japan.<br>
  🙋‍♂️ I can speak Korean, Japanese and English.<br>
- 🌱 I’m currently learning JAVA, JSP, Spring and so on.<br>
- 📫 How to reach me leechanseong89@gmail.com<br>
- 🪐 Here is my homepage https://mongte.tistory.com/<br>
+ 🌱 I’m currently learning JAVA, Spring framework and so on.<br>
+ 📫 How to reach me mongtescu@gmail.com<br>
+ 🪐 Here is my blog https://mongte.tistory.com/<br>
 </p>
 <br><br>
-<h3 align="center">🛠 Here are my skills which I'm focus on learning : </h3>
+<h3 align="center">🛠 Here are my skills which I've focused on learning : </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396.svg?&amp;style=for-the-badge&amp;logo=Java&amp;logoColor=white" alt="Java">&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&amp;style=for-the-badge&amp;logo=Spring&amp;logoColor=white" alt="Spring">&nbsp;
